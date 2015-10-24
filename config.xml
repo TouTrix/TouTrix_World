@@ -13,14 +13,18 @@
         The game of the year using real Bitcoin inside the game.
     </description>
 
-    <author href="https://toutrix.com" email="c3rv3au@gmail.com">
+    <author href="http://toutrix.com" email="c3rv3au@gmail.com">
         TouTrix
     </author>
+
+    <gap:plugin name="com.indigoway.cordova.whitelist.whitelistplugin" />
 
     <gap:platform name="ios" />
     <gap:platform name="android" />
     <gap:platform name="winphone" />
 
-    <access origin="http://*.toutrix.com" />
+
+
+    <access origin="http://serv.toutrix.com" />
 
 </widget>
