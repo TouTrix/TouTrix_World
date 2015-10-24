@@ -25,6 +25,6 @@
 
 
 
-    <access origin="http://serv.toutrix.com" />
+    <access origin="*" />
 
 </widget>
