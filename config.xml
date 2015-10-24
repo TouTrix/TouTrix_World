@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.toutrix.world"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>TouTrix World</name>
+
+    <description>
+        The game of the year using real Bitcoin inside the game.
+    </description>
+
+    <author href="https://toutrix.com" email="c3rv3au@gmail.com">
+        TouTrix
+    </author>
+
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
+    <gap:platform name="winphone" />
+
+</widget>
